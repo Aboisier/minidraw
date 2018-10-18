@@ -10,6 +10,9 @@ import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
+import minidraw.standard.tools.BoardActionTool;
+import minidraw.standard.tools.BoardDrawing;
+import minidraw.standard.tools.BoardGameObserver;
 
 /**
  * Experimental stuff. Testing the 'boardgame' package within Minidraw.

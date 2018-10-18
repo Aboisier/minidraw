@@ -1,10 +1,9 @@
-package minidraw.boardgame;
+package minidraw.standard.tools;
 
 import java.awt.event.MouseEvent;
 
 import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
-import minidraw.standard.AbstractTool;
 
 /**
  * A tool to handle user interaction on board game figures. Responsibility: A)

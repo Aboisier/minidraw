@@ -6,8 +6,8 @@ import java.awt.event.MouseEvent;
 import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
-import minidraw.framework.drawing.NullTool;
 import minidraw.standard.*;
+import minidraw.standard.tools.NullTool;
 
 /**
  * Demonstrates how figures can be added and removed from the drawing and

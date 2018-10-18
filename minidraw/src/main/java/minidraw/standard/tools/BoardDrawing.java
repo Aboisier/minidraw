@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.standard.tools;
 
 import java.awt.*;
 import java.util.*;
@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Map.Entry;
 
 import minidraw.framework.Figure;
-import minidraw.standard.StandardDrawing;
 
 /**
  * An implementation of Drawing that is custom made to support storing figures

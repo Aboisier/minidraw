@@ -1,13 +1,10 @@
-package minidraw.standard;
+package minidraw.standard.tools;
 
 import java.awt.event.MouseEvent;
 
 import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
-import minidraw.framework.drawing.NullTool;
-import minidraw.framework.drawing.RubberBandSelectionStrategy;
-import minidraw.standard.handlers.*;
 
 /**
  * Selection tool: Uses a internal state pattern to define what type of tool to

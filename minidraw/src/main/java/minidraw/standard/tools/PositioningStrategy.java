@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.standard.tools;
 
 import java.awt.Point;
 

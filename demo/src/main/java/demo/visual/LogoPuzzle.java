@@ -11,6 +11,8 @@ import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
+import minidraw.standard.tools.SelectionTool;
+import minidraw.standard.tools.StandardDrawing;
 
 /**
  * A (very small) jigsaw puzzle on the Aarhus University Logo. A demonstration

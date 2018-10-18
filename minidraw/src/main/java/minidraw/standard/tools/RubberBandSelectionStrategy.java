@@ -1,6 +1,8 @@
-package minidraw.framework.drawing;
+package minidraw.standard.tools;
 
 import java.awt.Rectangle;
+
+import minidraw.framework.drawing.Drawing;
 
 /**
  * A strategy for selecting figures when using the SelectAreaTracker. You can

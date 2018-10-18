@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.standard.tools;
 
 /**
  * This defines the Observer pattern's observer role that allows the

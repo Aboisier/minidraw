@@ -6,6 +6,7 @@ import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
+import minidraw.standard.tools.SelectionTool;
 
 /**
  * Test that figures can be added to the drawing and that the selection tool

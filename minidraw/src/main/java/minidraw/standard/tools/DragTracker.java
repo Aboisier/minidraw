@@ -1,11 +1,10 @@
-package minidraw.standard.handlers;
+package minidraw.standard.tools;
 
 import java.awt.event.*;
 
 import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
-import minidraw.standard.AbstractTool;
 
 /**
  * A DragTracker tool moves the set of figures defined by the drawing's

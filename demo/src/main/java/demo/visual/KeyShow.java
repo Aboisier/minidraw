@@ -4,8 +4,8 @@ import java.awt.event.KeyEvent;
 
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
-import minidraw.framework.drawing.NullTool;
 import minidraw.standard.*;
+import minidraw.standard.tools.NullTool;
 
 /**
  * Display key events in the status message field.

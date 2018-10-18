@@ -8,6 +8,7 @@ import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.standard.*;
+import minidraw.standard.tools.StandardDrawing;
 
 /**
  * A factory just for testing purposes. Defines a chess board background. 

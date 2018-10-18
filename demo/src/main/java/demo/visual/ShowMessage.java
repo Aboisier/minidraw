@@ -4,8 +4,8 @@ import java.awt.event.MouseEvent;
 
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
-import minidraw.framework.drawing.NullTool;
 import minidraw.standard.*;
+import minidraw.standard.tools.NullTool;
 
 /**
  * Demonstrate different messages in the status bar.

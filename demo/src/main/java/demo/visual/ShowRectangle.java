@@ -12,6 +12,10 @@ import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
+import minidraw.standard.tools.AbstractTool;
+import minidraw.standard.tools.SelectionTool;
+import minidraw.standard.tools.StandardDrawing;
+import minidraw.standard.tools.Tool;
 
 /**
  * Demonstrate MiniDraw ability to: A) Handle multiple windows B) Define new

@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.standard.tools;
 
 /**
  * This role defines a strategy (strategy pattern) encapsulating the algorithms

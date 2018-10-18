@@ -6,6 +6,7 @@ import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
+import minidraw.standard.tools.SelectionTool;
 
 /**
  * Demonstrate putting several figures into a composite figure.
