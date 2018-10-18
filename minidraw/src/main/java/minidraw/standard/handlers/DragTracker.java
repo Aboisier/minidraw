@@ -3,6 +3,8 @@ package minidraw.standard.handlers;
 import java.awt.event.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingEditor;
 import minidraw.standard.AbstractTool;
 
 /**

@@ -1,10 +1,11 @@
-package minidraw.standard.handlers;
+package minidraw.framework.drawingEvents;
 
 //import javax.swing.*;
 import java.awt.Rectangle;
 import java.util.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
 
 /**
  * The Subject role of the observer pattern for DrawingChangeListeners.

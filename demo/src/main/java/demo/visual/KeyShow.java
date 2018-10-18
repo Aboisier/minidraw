@@ -2,7 +2,9 @@ package demo.visual;
 
 import java.awt.event.KeyEvent;
 
-import minidraw.framework.DrawingEditor;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.MiniDrawApplication;
+import minidraw.framework.drawing.NullTool;
 import minidraw.standard.*;
 
 /**

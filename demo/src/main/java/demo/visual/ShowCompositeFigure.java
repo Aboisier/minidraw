@@ -3,6 +3,8 @@ package demo.visual;
 import java.awt.Point;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
 
 /**

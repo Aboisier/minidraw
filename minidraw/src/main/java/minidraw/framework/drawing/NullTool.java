@@ -1,4 +1,4 @@
-package minidraw.standard;
+package minidraw.framework.drawing;
 
 import java.awt.event.*;
 

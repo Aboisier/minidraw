@@ -2,6 +2,7 @@ package minidraw.boardgame;
 
 import java.awt.*;
 
+import minidraw.framework.drawingEvents.ImageManager;
 import minidraw.standard.*;
 
 /**

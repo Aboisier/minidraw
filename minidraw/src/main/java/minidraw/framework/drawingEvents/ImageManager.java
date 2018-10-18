@@ -1,4 +1,4 @@
-package minidraw.standard;
+package minidraw.framework.drawingEvents;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -50,7 +50,7 @@ public class ImageManager {
    * parameter is legacy as of version 1.10
    * @param c legacy, can be null.
    */
-  ImageManager(Component c) {
+  public ImageManager(Component c) {
     aComponent = c;
     registerAllImages();
     singleton = this;

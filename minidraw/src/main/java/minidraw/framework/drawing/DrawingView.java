@@ -1,6 +1,8 @@
-package minidraw.framework;
+package minidraw.framework.drawing;
 
 import java.awt.Graphics;
+
+import minidraw.framework.drawingEvents.DrawingChangeListener;
 
 /**
  * The graphical output role of MiniDraw, representing the View role of the MVC

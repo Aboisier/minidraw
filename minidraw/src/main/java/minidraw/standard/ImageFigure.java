@@ -2,6 +2,8 @@ package minidraw.standard;
 
 import java.awt.*;
 
+import minidraw.framework.drawingEvents.ImageManager;
+
 /**
  * ImageFigure is a figure showing a graphical
  * image. The image must be read by the ImageManager.

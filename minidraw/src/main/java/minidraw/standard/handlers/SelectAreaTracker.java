@@ -4,6 +4,9 @@ import java.awt.*;
 import java.awt.event.MouseEvent;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
+import minidraw.framework.drawing.RubberBandSelectionStrategy;
 import minidraw.standard.AbstractTool;
 
 /**

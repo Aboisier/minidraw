@@ -1,7 +1,7 @@
 package demo.visual;
 
-import minidraw.framework.DrawingEditor;
-import minidraw.standard.MiniDrawApplication;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.MiniDrawApplication;
 
 /*
  * Basic demo of opening window with a static image background.

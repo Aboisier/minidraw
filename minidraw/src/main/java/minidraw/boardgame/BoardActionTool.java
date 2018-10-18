@@ -3,6 +3,7 @@ package minidraw.boardgame;
 import java.awt.event.MouseEvent;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.DrawingEditor;
 import minidraw.standard.AbstractTool;
 
 /**

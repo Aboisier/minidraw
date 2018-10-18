@@ -6,6 +6,11 @@ import java.awt.event.*;
 import javax.swing.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
+import minidraw.framework.drawing.Factory;
+import minidraw.framework.drawing.MiniDrawApplication;
 import minidraw.standard.*;
 
 /**

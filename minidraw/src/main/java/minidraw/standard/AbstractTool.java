@@ -3,6 +3,7 @@ package minidraw.standard;
 import java.awt.event.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.DrawingEditor;
 
 /**
  * AbstractTool. Provides some rudimentary behavior for other tools to

@@ -1,4 +1,6 @@
-package minidraw.framework;
+package minidraw.framework.drawing;
+
+import minidraw.framework.Tool;
 
 /**
  * The DrawingEditor is the interface of the "main" class of any minidraw

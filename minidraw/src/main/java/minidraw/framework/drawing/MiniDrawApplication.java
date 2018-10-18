@@ -1,10 +1,11 @@
-package minidraw.standard;
+package minidraw.framework.drawing;
 
 import java.awt.*;
 
 import javax.swing.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawingEvents.ImageManager;
 
 /**
  * MiniDraw Application is a standard implementation of the DrawingEditor role.

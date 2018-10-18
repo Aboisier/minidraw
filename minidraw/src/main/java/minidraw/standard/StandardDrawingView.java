@@ -8,6 +8,10 @@ import java.util.List;
 import javax.swing.JPanel;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
+import minidraw.framework.drawingEvents.DrawingChangeEvent;
 
 /**
  * Standard implementation of the DrawingView role in MiniDraw, just giving an

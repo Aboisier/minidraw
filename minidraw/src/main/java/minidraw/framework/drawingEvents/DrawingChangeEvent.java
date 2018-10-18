@@ -1,7 +1,9 @@
-package minidraw.framework;
+package minidraw.framework.drawingEvents;
 
 import java.awt.Rectangle;
 import java.util.EventObject;
+
+import minidraw.framework.drawing.Drawing;
 
 /**
  * The change event originating from a drawing.
