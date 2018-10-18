@@ -1,4 +1,4 @@
-package minidraw.standard;
+package minidraw.framework.figure;
 
 import java.awt.Rectangle;
 import java.util.*;

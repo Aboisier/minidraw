@@ -5,6 +5,7 @@ import java.util.Iterator;
 
 import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
+import minidraw.framework.figure.Figure;
 
 /**
  * The standard RubberBandSelection strategy that simply selects all figures

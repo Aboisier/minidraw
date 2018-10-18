@@ -7,6 +7,7 @@ import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
+import minidraw.framework.figure.StdViewWithBackground;
 import minidraw.standard.*;
 import minidraw.standard.tools.StandardDrawing;
 

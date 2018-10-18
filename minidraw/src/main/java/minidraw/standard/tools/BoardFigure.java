@@ -2,8 +2,9 @@ package minidraw.standard.tools;
 
 import java.awt.*;
 
-import minidraw.boardgame.Command;
-import minidraw.framework.drawingEvents.ImageManager;
+import minidraw.framework.figure.Command;
+import minidraw.framework.figure.ImageFigure;
+import minidraw.framework.figure.ImageManager;
 import minidraw.standard.*;
 
 /**

@@ -1,8 +1,6 @@
-package minidraw.standard;
+package minidraw.framework.figure;
 
 import java.awt.*;
-
-import minidraw.framework.drawingEvents.ImageManager;
 
 /**
  * ImageFigure is a figure showing a graphical

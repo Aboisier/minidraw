@@ -7,7 +7,11 @@ import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawingEvents.DrawingChangeListener;
 import minidraw.framework.drawingEvents.StandardDrawingChangeListenerHandler;
-import minidraw.standard.CompositeFigure;
+import minidraw.framework.figure.CompositeFigure;
+import minidraw.framework.figure.Figure;
+import minidraw.framework.figure.FigureChangeEvent;
+import minidraw.framework.figure.FigureChangeListener;
+import minidraw.framework.figure.SelectionHandler;
 
 /** Standard implementation of the drawing role. */
 

@@ -5,6 +5,7 @@ import java.awt.event.MouseEvent;
 import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.figure.Figure;
 
 /**
  * Selection tool: Uses a internal state pattern to define what type of tool to

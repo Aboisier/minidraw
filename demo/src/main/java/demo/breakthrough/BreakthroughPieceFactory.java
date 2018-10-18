@@ -3,6 +3,7 @@ package demo.breakthrough;
 import java.util.*;
 
 import minidraw.boardgame.*;
+import minidraw.framework.figure.Command;
 import minidraw.standard.tools.BoardFigure;
 import minidraw.standard.tools.FigureFactory;
 

@@ -1,4 +1,4 @@
-package minidraw.framework.drawingEvents;
+package minidraw.framework.figure;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

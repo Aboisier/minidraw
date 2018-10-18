@@ -5,6 +5,10 @@ import java.awt.Point;
 import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.MiniDrawApplication;
+import minidraw.framework.figure.CompositeFigure;
+import minidraw.framework.figure.Figure;
+import minidraw.framework.figure.GroupFigure;
+import minidraw.framework.figure.ImageFigure;
 import minidraw.standard.*;
 import minidraw.standard.tools.SelectionTool;
 

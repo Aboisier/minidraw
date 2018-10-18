@@ -10,6 +10,8 @@ import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.MiniDrawApplication;
+import minidraw.framework.figure.ImageFigure;
+import minidraw.framework.figure.StdViewWithBackground;
 import minidraw.standard.*;
 import minidraw.standard.tools.SelectionTool;
 import minidraw.standard.tools.StandardDrawing;

@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.framework.figure;
 
 /**
  * A Command pattern to encapsulate method calls on a board game based upon

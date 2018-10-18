@@ -1,4 +1,4 @@
-package minidraw.boardgame;
+package minidraw.framework.figure;
 
 /**
  * A null object implementation of Command. All executions does nothing and

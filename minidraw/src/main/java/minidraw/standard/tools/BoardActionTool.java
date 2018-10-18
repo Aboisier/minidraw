@@ -4,6 +4,7 @@ import java.awt.event.MouseEvent;
 
 import minidraw.framework.*;
 import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.figure.Figure;
 
 /**
  * A tool to handle user interaction on board game figures. Responsibility: A)

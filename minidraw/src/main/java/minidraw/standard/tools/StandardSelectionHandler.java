@@ -3,6 +3,8 @@ package minidraw.standard.tools;
 import java.util.*;
 
 import minidraw.framework.*;
+import minidraw.framework.figure.Figure;
+import minidraw.framework.figure.SelectionHandler;
 
 /**
  * The standard selection handler contains default implementation of managing a

@@ -5,7 +5,7 @@ import java.awt.*;
 import javax.swing.*;
 
 import minidraw.framework.*;
-import minidraw.framework.drawingEvents.ImageManager;
+import minidraw.framework.figure.ImageManager;
 import minidraw.standard.tools.NullTool;
 import minidraw.standard.tools.Tool;
 

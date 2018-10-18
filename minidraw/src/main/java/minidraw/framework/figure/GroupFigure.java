@@ -1,9 +1,7 @@
-package minidraw.standard;
+package minidraw.framework.figure;
 
 import java.awt.Rectangle;
 import java.util.Iterator;
-
-import minidraw.framework.Figure;
 
 /**
  * A Group figure is a fully operational figure containing other figures.

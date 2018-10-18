@@ -1,9 +1,8 @@
-package minidraw.standard;
+package minidraw.framework.figure;
 
 import java.awt.*;
 
 import minidraw.framework.drawing.DrawingEditor;
-import minidraw.framework.drawingEvents.ImageManager;
 
 /** A drawing view that paints the background with a fixed image */
 

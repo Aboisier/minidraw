@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.List;
 import java.util.Map.Entry;
 
-import minidraw.framework.Figure;
+import minidraw.framework.figure.Figure;
 
 /**
  * An implementation of Drawing that is custom made to support storing figures
