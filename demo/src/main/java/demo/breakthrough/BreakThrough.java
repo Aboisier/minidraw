@@ -2,7 +2,6 @@ package demo.breakthrough;
 
 import javax.swing.JTextField;
 
-import minidraw.boardgame.*;
 import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;

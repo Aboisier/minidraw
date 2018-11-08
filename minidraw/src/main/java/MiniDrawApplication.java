@@ -1,10 +1,13 @@
-package minidraw.framework.drawing;
+
 
 import java.awt.*;
 
 import javax.swing.*;
 
-import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
+import minidraw.framework.drawing.Factory;
 import minidraw.framework.figure.ImageManager;
 import minidraw.standard.tools.NullTool;
 import minidraw.standard.tools.Tool;

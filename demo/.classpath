@@ -2,7 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10/"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10/">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/abois/Desktop/minidraw/minidraw/libs/minidraw.framework.drawing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abois/Desktop/minidraw/minidraw/libs/minidraw.framework.drawingEvents.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abois/Desktop/minidraw/minidraw/libs/minidraw.framework.figure.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abois/Desktop/minidraw/minidraw/libs/minidraw.framework.tools.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
