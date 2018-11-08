@@ -1,14 +1,7 @@
 /*
- * Build file for MiniDraw, by Henrik Baerbak Christensen.
+ * Root build file, to get latest gradle wrapper
  */
 
-apply plugin: 'java'
-
-repositories {
-    jcenter()
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.6'
 }
-
-dependencies {
-	compile fileTree(include: ['*.jar'], dir: 'libs')
-}
-
